@@ -50,13 +50,4 @@ This repository contains C language implementations of various Queue data struct
 
 ---
 
-## 🛠️ How to Run
-
-### Prerequisites
-Make sure you have `gcc` compiler installed on your system.
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/](https://github.com/)<YOUR_USERNAME>/<REPOSITORY_NAME>.git
-   cd <REPOSITORY_NAME>
+Github link : https://github.com/Aditirathore01/DSA-Assignment.git
